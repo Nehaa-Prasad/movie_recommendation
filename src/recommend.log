@@ -1,0 +1,22 @@
+[2025-05-03 14:27:01,285] INFO - 🔁 Loading data...
+[2025-05-03 14:27:01,293] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-05-03 14:48:45,987] INFO - 🔁 Loading data...
+[2025-05-03 14:48:47,127] INFO - ✅ Data loaded successfully.
+[2025-05-03 14:48:59,728] INFO - 🎬 Recommending movies for: '10 Cloverfield Lane'
+[2025-05-03 14:48:59,749] INFO - ✅ Top 5 recommendations ready.
+[2025-05-03 14:49:44,335] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-05-03 14:49:44,346] INFO - ✅ Top 5 recommendations ready.
+[2025-05-03 14:50:35,398] INFO - 🎬 Recommending movies for: 'Man of Steel'
+[2025-05-03 14:50:35,407] INFO - ✅ Top 5 recommendations ready.
+[2025-05-03 15:08:42,146] INFO - 🔁 Loading data...
+[2025-05-03 15:08:43,546] INFO - ✅ Data loaded successfully.
+[2025-05-03 15:08:49,370] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-05-03 15:08:49,377] INFO - ✅ Top 5 recommendations ready.
+[2025-05-05 07:39:20,233] INFO - 🔁 Loading data...
+[2025-05-05 07:39:25,712] INFO - ✅ Data loaded successfully.
+[2025-05-05 07:39:32,664] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-05-05 07:39:32,695] INFO - ✅ Top 5 recommendations ready.
+[2025-05-05 13:02:40,581] INFO - 🔁 Loading data...
+[2025-05-05 13:02:45,639] INFO - ✅ Data loaded successfully.
+[2025-05-05 13:03:02,664] INFO - 🎬 Recommending movies for: 'As Above, So Below'
+[2025-05-05 13:03:02,688] INFO - ✅ Top 5 recommendations ready.
