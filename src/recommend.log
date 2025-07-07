@@ -20,3 +20,11 @@
 [2025-05-05 13:02:45,639] INFO - ✅ Data loaded successfully.
 [2025-05-05 13:03:02,664] INFO - 🎬 Recommending movies for: 'As Above, So Below'
 [2025-05-05 13:03:02,688] INFO - ✅ Top 5 recommendations ready.
+[2025-06-24 11:34:08,038] INFO - 🔁 Loading data...
+[2025-06-24 11:34:09,203] INFO - ✅ Data loaded successfully.
+[2025-06-24 11:35:09,220] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2025-06-24 11:35:09,239] INFO - ✅ Top 5 recommendations ready.
+[2025-07-07 21:01:33,618] INFO - 🔁 Loading data...
+[2025-07-07 21:01:35,175] INFO - ✅ Data loaded successfully.
+[2025-07-07 21:02:15,975] INFO - 🎬 Recommending movies for: '10th & Wolf'
+[2025-07-07 21:02:15,994] INFO - ✅ Top 5 recommendations ready.

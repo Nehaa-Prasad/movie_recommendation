@@ -35,8 +35,8 @@ Build a system that recommends movies similar to a user's selected movie using c
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Nehaa-Prasad/movie-recommendation.git
-cd movie-recommendation 
+git clone https://github.com/Nehaa-Prasad/movie_recommendation.git
+cd movie_recommendation 
 ```
 
 ### 2. Install dependencies
