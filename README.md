@@ -52,6 +52,13 @@ If you created a frontend:
 ```bash
 streamlit run app.py
 ```
+### ⚠️ Note:
+The file `src/cosine_sim.pkl` was too large to be included due to GitHub's 100MB limit.
+
+To run the project:
+- Open the notebook `Movie_recommendation_system.ipynb`
+- Run all the cells to regenerate the required `.pkl` files
+
 
 ---
 
